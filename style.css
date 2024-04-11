@@ -62,23 +62,25 @@ main {
     font-weight: normal;
 }
 
-.container ul li {
+.container .links a {
     background-color: hsl(0, 0%, 20%);
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
-    padding: 10px 80px;
     border-radius: 2px;
     position: relative;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
-    color: #000;
+    color: #fff;
     transition: 0.3s ease all;
     z-index: 1;
-    margin: 0 auto 17px auto;
+    margin: 0 auto 22px auto;
     cursor: pointer;
     border-radius: 5px;
+    padding: 10px 50px;
+    font-family: Inter, Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
 }
 
-li:before {
+a:before {
     transition: 0.5s all ease;
     position: absolute;
     top: 0;
@@ -92,30 +94,24 @@ li:before {
     border-radius: 5px;
 }
 
-li:hover:before,
-li:focus:before {
+a:hover:before,
+a:focus:before {
     transition: 0.5s all ease;
     left: 0;
     right: 0;
     opacity: 1;
 }
 
-li:active {
+a:active {
     transform: scale(0.9);
 }
 
-.container ul li:hover a {
+.container .links a:hover {
     color: #000;
 }
 
-.container ul li a {
-    color: #fff;
-    font-size: 14px;
-    font-weight: 600;
-}
-
 @media (max-width: 378px) {
-    .container ul li {
+    .container .links a {
         width: 90%;
     }
 }
