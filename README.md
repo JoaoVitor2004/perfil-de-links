@@ -11,4 +11,4 @@ lista de links para acessar minhas redes sociais
   - HTML
   - CSS
 
-<p>🔗 Link para acessar o <a href="">site</a></p>
+<p>🔗 Link para acessar o <a href="https://joaovitor2004.github.io/perfil-de-links/">site</a></p>
