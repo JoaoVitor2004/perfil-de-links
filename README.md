@@ -1,14 +1,26 @@
-# Projeto perfil de links sociais
+![capa - perfil de links sociais](https://github.com/JoaoVitor2004/perfil-de-links/assets/143558833/d9b140c1-a446-4771-b428-4f362eccf81f)
 
-lista de links para acessar minhas redes sociais
+# Perfil de links sociais
 
-![Captura de tela 2](https://github.com/JoaoVitor2004/perfil-de-links/assets/143558833/1044e7dd-29ee-4316-b542-1c639dedcc52)
+## 🎯 Introdução
 
-## 🛠 Ferramenta e tecnologias utilizadas
+Este projeto tem o objetivo de mostrar uma lista de links para estar entrando em contato, sendo totalmente responsivo.
 
-- Visual studio code
-  
-  - HTML
-  - CSS
+### ⚙ Guia de instalação
 
-<p>🔗 Link para acessar o <a href="https://joaovitor2004.github.io/perfil-de-links/">site</a></p>
+Precisa ter somente um navegador instalado em sua maquina para acessar apartir deste <a href="https://JoaoVitor2004.github.io/perfil-de-links">endereço</a>
+
+### 🛠 Tecnologias utilizadas
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo do HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo do CSS">
+</div>
+
+### 👨‍💻 Autores / Colaboradores
+
+- **João Vitor** - Frontend do projeto - [João Vitor]()
+
+### 📃 Licença
+
+Este projeto esta sob a licença [MIT](https://www.linkedin.com/in/jo%C3%A3o-vitor-souzaa/)
