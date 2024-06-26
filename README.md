@@ -4,7 +4,7 @@
 
 ## 🎯 Introdução
 
-Este projeto tem o objetivo de mostrar uma lista de links para estar entrando em contato, sendo totalmente responsivo.
+Este projeto tem o objetivo de mostrar uma lista de links para estar entrando em contato, estando totalmente responsivo.
 
 ### ⚙ Guia de instalação
 
